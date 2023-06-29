@@ -12,10 +12,16 @@ https://agendamvc.azurewebsites.net/
 Agenda CRUD é uma aplicação utilizando a tecnologia ASP.NET MVC aprendida no curso Carreira .NET da DIO 
 
 # Tecnologias utilizadas
+
 ## Back end
 - C#
 - ASP NET MVC
 - SQL Server
+
+## Front end
+- HTML
+- CSS
+- Javascript
 
 ## Implantação em produção
 - Back end: Azure
